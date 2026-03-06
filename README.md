@@ -17,14 +17,14 @@ The expected workflow for a student can be something like the following:
 
 ### Easy to customize
 
-Each assignment comprises a pair of files: a `.json` file and a `.md` file. Both files should have the same name minus the file extension.
+Each assignment comprises a pair of files: a `.json` file and a `.md` file. Both files should have the same name minus the file extension. See the `data` directory for how it should be organized.
 
 * The `.json` file contains the questions for the CAT assessment. This is parsed and displayed on the right of the screen with each question as a "tab".
-* The `.md` file contains the text that is displayed on the left of the screen.
+* The `.md` file contains the text that is displayed on the left of the screen. The title should be indicated with a level 2 heading (`##`.)
 
 The following gist should help converting Google Forms into a plug-and-play json file (or it should at least help get you close to your needed output): https://gist.github.com/mrdwab/e06a58a2b3124095d7eacb31959ee8aa
 
-Remember to update `catalog.json` with the name of any new pair of files added. Following the naming convention means the tasks will automatically be added to the dropdown menus created in `index.html`.
+Remember to update `catalog.json` with the name of any new pair of files added. Following the naming convention means the tasks will automatically be added to the dropdown menus created in `index.html`. The grade level comes from the `g#` part of the filename, and the title comes from the first level 2 (`##`) heading in the markdown file.
 
 ### Convenient printing
 
