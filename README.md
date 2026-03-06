@@ -22,6 +22,8 @@ Each assignment comprises a pair of files: a `.json` file and a `.md` file. Both
 * The `.json` file contains the questions for the CAT assessment. This is parsed and displayed on the right of the screen with each question as a "tab".
 * The `.md` file contains the text that is displayed on the left of the screen.
 
+The following gist should help converting Google Forms into a plug-and-play json file (or it should at least help get you close to your needed output): https://gist.github.com/mrdwab/e06a58a2b3124095d7eacb31959ee8aa
+
 Remember to update `catalog.json` with the name of any new pair of files added. Following the naming convention means the tasks will automatically be added to the dropdown menus created in `index.html`.
 
 ### Convenient printing
