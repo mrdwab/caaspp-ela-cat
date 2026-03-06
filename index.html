@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELA CAT Portal</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .card { background: white; padding: 40px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); width: 100%; max-width: 400px; }
+        h1 { text-align: center; color: #4a148c; margin-bottom: 30px; }
+        label { display: block; margin-bottom: 8px; font-weight: bold; color: #555; }
+        select { width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; box-sizing: border-box;}
+        button { width: 100%; padding: 12px; background: #0070c0; color: white; border: none; border-radius: 4px; font-size: 1.1rem; cursor: pointer; font-weight: bold;}
+        button:hover { background: #005a9c; }
+        button:disabled { background: #ccc; cursor: not-allowed; }
+        .footer { text-align: center; margin-top: 20px; color: #888; font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>ELA CAT Portal</h1>
+    
+    <form id="loginForm">
+        <label for="grade">Select Grade:</label>
+        <select id="grade" onchange="updateAssignments()">
+            <option value="3">Grade 3</option>
+            <option value="4">Grade 4</option>
+            <option value="5">Grade 5</option>
+            <option value="6">Grade 6</option>
+        </select>
+
+        <label for="assignment">Select Practice Test:</label>
+        <select id="assignment" required>
+            <option>Loading assignments...</option>
+        </select>
+
+        <button type="submit" id="startBtn" disabled>Start Practice</button>
+    </form>
+
+    <div class="footer">CAASPP Computer Adaptive Test Practice</div>
+</div>
+
+<script>
+    let libraryData = {};
+
+    async function loadCatalog() {
+        try {
+            const res = await fetch('data/catalog.json');
+            const fileIds = await res.json();
+
+            for (const id of fileIds) {
+                const mdRes = await fetch(`data/${id}.md`);
+                if (mdRes.ok) {
+                    const mdText = await mdRes.text();
+                    
+                    const titleMatch = mdText.match(/^##\s+(.*)/m);
+                    const title = titleMatch ? titleMatch[1].trim() : id;
+                    
+                    const gradeMatch = id.match(/^g(\d+)/);
+                    const grade = gradeMatch ? gradeMatch[1] : "3";
+                    
+                    if (!libraryData[grade]) libraryData[grade] = [];
+                    libraryData[grade].push({ id: id, name: title });
+                }
+            }
+            
+            document.getElementById('startBtn').disabled = false;
+            
+            // --- RESTORE PREVIOUS STATE ---
+            const savedGrade = localStorage.getItem('cat_last_grade');
+            if (savedGrade && libraryData[savedGrade]) {
+                document.getElementById('grade').value = savedGrade;
+            }
+            
+            updateAssignments();
+            
+            const savedAssignment = localStorage.getItem('cat_last_assignment');
+            if (savedAssignment) {
+                const assignmentSelect = document.getElementById('assignment');
+                // Check if the saved assignment belongs to the currently selected grade
+                const optionExists = Array.from(assignmentSelect.options).some(opt => opt.value === savedAssignment);
+                if (optionExists) {
+                    assignmentSelect.value = savedAssignment;
+                }
+            }
+            
+        } catch (e) {
+            console.error("Error loading catalog:", e);
+            document.getElementById('assignment').innerHTML = "<option>Error loading data folder</option>";
+        }
+    }
+
+    function updateAssignments() {
+        const grade = document.getElementById('grade').value;
+        const select = document.getElementById('assignment');
+        select.innerHTML = ""; 
+        
+        const tasks = libraryData[grade] || [];
+        
+        if (tasks.length === 0) {
+            const opt = document.createElement('option');
+            opt.innerText = "No assignments available for this grade";
+            opt.value = "";
+            select.appendChild(opt);
+        } else {
+            tasks.forEach(task => {
+                const opt = document.createElement('option');
+                opt.value = task.id;
+                opt.innerText = task.name;
+                select.appendChild(opt);
+            });
+        }
+    }
+
+    document.getElementById('loginForm').onsubmit = function(e) {
+        e.preventDefault();
+        const grade = document.getElementById('grade').value;
+        const assignmentId = document.getElementById('assignment').value;
+        if (!assignmentId) return;
+        
+        // --- SAVE STATE BEFORE LEAVING ---
+        localStorage.setItem('cat_last_grade', grade);
+        localStorage.setItem('cat_last_assignment', assignmentId);
+        
+        window.location.href = `test.html?id=${assignmentId}`;
+    };
+
+    loadCatalog();
+</script>
+
+</body>
+</html>

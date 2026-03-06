@@ -1,0 +1,260 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentences from the passage.<blockquote>I knew that my friend Jose and his family were supposed to be at the market, so I searched for them, <u>keeping my fingers crossed</u> that it didn’t start to rain.</blockquote>Why does the author use the phrase <u>keeping my fingers crossed</u>? Pick <b>three</b> choices.",
+                "options": [
+                    {
+                        "text": "to show Matthew feels unlucky",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show Matthew can move his hands easily",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show Matthew thinks the rain will not come after all",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show Matthew believes he can change the weather",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show Matthew is hopeful that the weather will not turn bad",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show Matthew wishes he could have some control over his problem",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Matthew and his family go to the farmer's market regularly. Pick the <b>two</b> details from the passage that <b>best</b> support this inference.",
+                "options": [
+                    {
+                        "text": "Kayla helps load the crates onto the truck.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew knows his friend Jose will be there.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Grandmother bakes pies to sell at the market.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Dad knows the name of the parking attendant.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Matthew thinks the rain will allow them to stay home.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentence from the passage.<blockquote>I ran past tables of flowers, fruits, vegetables, and even homemade soaps and hand-knitted sweaters, but I could not find Jose. </blockquote>Choose <b>two</b> statements that <b>best</b> explain why the author chose to include this sentence.",
+                "options": [
+                    {
+                        "text": "to show that Matthew is good at running",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to prove that Matthew's problem is very serious",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to help the reader imagine the farmer's market",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show that it was difficult for Matthew to find Jose",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to prove that there were many other sellers at the market besides Matthew's family",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to help the reader understand the different kinds of items that were being sold at the market",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "How does the author develop the idea that Matthew takes responsibility for his actions?",
+                "options": [
+                    {
+                        "text": "Matthew stops explaining to his dad about the boots and begins helping.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Matthew comes outside in time to load the last crates of produce onto the truck.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew is disappointed that he still must go to the market, even though it is raining.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew asks his friend to help him carry the umbrellas carefully through the crowd.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>Finally I saw Jose. I ran over and almost <u>collapsed</u>.</blockquote>What does the use of the word <u>collapsed</u> suggest?",
+                "options": [
+                    {
+                        "text": "Matthew is noisy.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew is very helpful.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew feels cheerful.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew feels very tired.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What happens after Matthew and Jose open the umbrellas?",
+                "options": [
+                    {
+                        "text": "The rain begins to fall.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The crowds begin to thin out.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew visits Jose and his mother at their stand.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew sets up the table with the fruits and vegetables.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which of these inferences about Matthew is supported by the passage?",
+                "options": [
+                    {
+                        "text": "Matthew does not get enough exercise.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew wants to go to the farmer's market.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew does not care if his family gets wet.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew enjoys eating his grandmother's baked goods.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the passage <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "I had hoped to do what I wanted today.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Grandmother's homemade pies and cookies made my mouth water.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "I realized I had forgotten the umbrellas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "I ran over and almost collapsed.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "How does the paragraph about Matthew looking for his cowboy boots add to the plot?",
+                "options": [
+                    {
+                        "text": "Matthew takes his time finding them, which adds to the calm feeling of the story.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew spends a lot of time looking for them, which adds a feeling of mystery to the story.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Matthew gets too busy looking for them, causing him to forget the umbrellas, which sets up the problem in the story.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Matthew is unable to find them, causing him to wear his sneakers, which builds on the character description in the story.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

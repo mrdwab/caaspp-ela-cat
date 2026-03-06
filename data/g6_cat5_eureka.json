@@ -1,0 +1,186 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<blockquote>“Anybody can see that I displaced a bulk of water equal to the <u>bulk</u> of my body.”</blockquote>What does the word <u>bulk</u> <b>most likely</b> mean?",
+                "options": [
+                    {
+                        "text": "majority",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "mass",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "part",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "segment",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<blockquote>“He ran through the streets to the king’s palace shouting, ‘<u>Eureka! Eureka! Eureka!</u>’ which in English means, ‘I have found it! I have found it! I have found it!’”</blockquote>What effect does the author create by repeating the word “<u>Eureka</u>”?",
+                "options": [
+                    {
+                        "text": "It emphasizes the triumph Archimedes feels.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It demands that everyone admire him for his discovery.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It warns others that he has made a dangerous discovery.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows the desperation Archimedes feels as he tries to solve his problem.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What effect does the conversation between Archimedes and the king have on the reader's understanding of the events in the plot?",
+                "options": [
+                    {
+                        "text": "It explains clearly what the king has asked the goldsmith to do.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It explains clearly why the king begins to doubt the goldsmith.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It shows that Archimedes believes that solving the problem is impossible.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the king is determined to discover the truth about the crown himself.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What conclusion can be drawn about the character of Archimedes? Support your answer with details from the text."
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which statement is <b>most</b> accurate about <b>both</b> the goldsmith and Archimedes?",
+                "options": [
+                    {
+                        "text": "Both receive praise, and both are very private about their work.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Both take pride in their work, but one deceives and the other is truthful.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Both are awed by the power of the king, and both are eager to please him.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Both are eager to be rewarded by the king, but only one of them is successful.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Summarize what happens after Archimedes sees his bath water overflowing. Use key events from the text to support your summary."
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence <b>best</b> summarizes a central idea of the text?",
+                "options": [
+                    {
+                        "text": "Tricking a king can be dangerous.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Creating a beautiful object is challenging.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Problems can be solved in unusual ways.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Kings can solve problems as cleverly as ordinary people.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Click on the <b>two</b> sentences that <b>best</b> support the conclusion that Archimedes is very observant.",
+                "options": [
+                    {
+                        "text": "There was in the king’s court a very wise man whose name was Archimedes.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "When he was called in to admire the king’s crown he turned it over many times and examined it very closely.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“True,” said Archimedes, “but it does not appear to have the same rich red color that it had in the lump...”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“Most gold is yellow,” said Hiero; “but now that you speak of it I do remember that when this was in the lump it had a much richer color.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "But Archimedes was not the man to say that anything was impossible.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

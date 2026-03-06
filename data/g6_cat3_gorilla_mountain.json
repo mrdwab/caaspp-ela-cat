@@ -1,0 +1,190 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence <b>best</b> summarizes the first three paragraphs of the text?",
+                "options": [
+                    {
+                        "text": "Unlike most other days, Nyota gets to travel far from her home with her father.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "For the first time, Nyota is going with her father to observe the gorillas that he has been hired to protect.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Nyota is going to where her father works for the government protecting gorillas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Nyota wakes up prepared to walk with her father into the green mountains to see what he does for a job.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence from the text <b>best</b> supports the inference that a knowledgeable guide is needed to find gorillas in the forest?",
+                "options": [
+                    {
+                        "text": "“ ‘The females might be half that size, but they would still weigh twice as much as you.’ ”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Mutimura cleared a path for walking.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Now it was late morning, and the damp air was full of birds singing and insects buzzing.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“ ‘This,’ he said, pointing to an evergreen tree with bent and broken branches dangling close to the ground.”",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What is the <b>most likely</b> reason the author included the details about Nyota seeing monkeys around her house in the text?",
+                "options": [
+                    {
+                        "text": "to contrast the experience of Nyota watching the mountain gorillas",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to emphasize why Mutimura was hired by the government in that area",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to provide background information about the life of Nyota and Mutimura",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to explain how Nyota became interested in seeing gorillas with Mutimura",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<blockquote>Ferns and vines merged together, almost <u>concealing</u> the sky.</blockquote>What is an antonym, or opposite, of the word <u>concealing</u> as it is used in the sentence?",
+                "options": [
+                    {
+                        "text": "exposing",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "protecting",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "reflecting",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "transporting",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What inference can be made about Mutimura’s relationship with the gorillas? Support your answer with details from the text."
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Click on the statement that <b>best</b> provides an inference that can be made about the narrator’s feelings toward gorillas.",
+                "options": [
+                    {
+                        "text": "She cares what happens to the gorillas’ home.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "She worries whether the gorillas are getting enough rest.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "She wishes the younger gorillas were treated better by their elders.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "She is surprised by the relationship the young gorillas have with their parents.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "How does the author develop the relationship between the silverback gorilla and the other gorillas? Select <b>three</b> options.",
+                "options": [
+                    {
+                        "text": "by narrating how the silverback acts with a young gorilla",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "by narrating how a silverback provides food for his troops",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by having Mutimura explain that the silverback is a troop’s leader",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "by having Nyota express curiosity about how the silverback treated another gorilla",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by having Nyota ask Mutimura a question about the silverback’s role in the troop",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by narrating how another gorilla acts toward the silverback",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Summarize what happens after Nyota first sees the gorillas. Use key events from the text to support your summary."
+            }
+        ]
+    }
+]

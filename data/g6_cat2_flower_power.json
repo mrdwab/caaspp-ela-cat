@@ -1,0 +1,113 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the selection from the text:<blockquote>“Anything flying through the air, whether it's a baseball, 767 jumbo jet, or a bee, acquires a strong positive electrostatic charge due to interaction with air molecules,” Stephen Buchmann told Science News. Buchmann, who did not work on the study, is an entomologist. A scientist who studies bugs, he works at the University of Arizona in Tucson.<br><br>Robert and his coworkers showed that bees notice electric fields and can use them to pick among flowers.</blockquote>Select the statement that <b>best</b> explains why the author chose to include this selection.",
+                "options": [
+                    {
+                        "text": "The author included this selection to establish that bees can control how they utilize electric fields.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author included this selection to establish that Buchmann’s research is the key to all research that followed.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author included this selection to establish that non-living objects were needed for comparison purposes in the ongoing electrical charge research.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author included this selection to establish that there was existing scientific evidence about bees having positive electric charge, which aided scientists in developing the pollination studies.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentences from the text.<blockquote>Scientists report that bees and flowers appear to have a <u>charged</u> communication. In addition to a flower's color and scent, its electric field may also bring in bees, a new study shows. </blockquote>The word <u>charged</u> has multiple meanings. What does the word <u>charged</u> <b>most likely</b> suggest about bees and flowers in the text? Select <b>two</b> options.",
+                "options": [
+                    {
+                        "text": "Bees are excited to communicate with flowers.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees can feel a type of power given off by flowers.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Flowers can control their communication with bees.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees attack flowers when there is not enough nectar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees rush toward flowers when they want to get nectar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Flowers communicate with bees by using a form of electricity.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which statement best summarizes the central idea of the text?",
+                "options": [
+                    {
+                        "text": "Bees have positive electric fields, and flowers have negative electric fields.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Flowers may give off an electrical charge that makes bees attracted to them.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Bees are attracted to all flowers, even plastic ones, when there is an electric field.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Flowers have an electric field that might tell bees when there is not enough nectar.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the text best supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "“So bees, as they buzz about, can become positively charged.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Toward the tail end of 50 visits to the 'flowers,' most bees had learned to find the sweet ones.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“The flower's field reacted to the approaching bee with a small increase in strength.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“That electrical boost lingered for a little while after the bee had flown away.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

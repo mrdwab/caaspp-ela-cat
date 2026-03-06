@@ -1,0 +1,185 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence and the directions that follow.<blockquote>Participants in the Rokkaku battle were allowed to repair their kites before they competed in the next round.</blockquote>Which detail from the passage <b>best</b> supports this conclusion.",
+                "options": [
+                    {
+                        "text": "\"The kite flyers are chasing each other around the field, each trying to wrap his or her kite string, or ‘line,’ around someone else's\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Andrew’s line is tangled around the other kite’s, and he begins to saw his line back and forth. The other kite wavers, then its line breaks!\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"This competition has three 'heats,' or rounds. The same five kites compete in each heat.\"",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"After all three heats, the judges add all the points together to determine the final winner.\"",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Choose the statement that <b>best</b> describes what the information presented in “Battle in the Sky!” shows about the author’s point of view.",
+                "options": [
+                    {
+                        "text": "It shows that the author thinks a team can be helpful to choose the design of the kite.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the author thinks a team can be helpful to divide up the responsibilities.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It shows that the author thinks a team can be helpful to make repairs on the kites after battles.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the author thinks a team can be helpful to give everyone a break from being the pilot.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the passage <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "\"Modern kites, however, might be decorated with any design, including animals, insects, flags, or funny faces.\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"The other kite wavers, then its line breaks!\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"After all three heats, the judges add all the points together to determine the final winner.\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"The pilot and copilot work together to fly the kite, and the scorekeeper helps keep track of the points.\"",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which sentence <b>best</b> describes the author’s message?",
+                "options": [
+                    {
+                        "text": "Since the kites for Rokkaku battles are larger than regular kites, teamwork is necessary in order to win.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Although kite flying seems like a simple and easy task, Rokkaku battles require a lot of strength and skill.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Andrew Albosta, who has been flying kites since he was a kid, is the best Rokkaku kite flyer in Washington, D.C.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The 2012 Blossom Kite Festival Rokkaku Battle in Washington, D.C., allows kite flyers to participate in many battle rounds.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "checkbox",
+                "prompt": "<b>Part B</b><br><br>Which sentence or sentences from the passage <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "“Down on the ground, the kite flyers begin to saw their lines back and forth, trying to pull each other’s kites out of the sky.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“But the battle is not over yet. Just like a game of rock-paper-scissors, it’s the best out of three.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“For this battle, each team must have four members: a pilot, a copilot, a launcher, and a scorekeeper.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“It’s a close contest, but Andrew wins a third and final time, making him the first-place winner of the 2012 Blossom Kite Festival Rokkaku Battle.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentences from the passage.<blockquote>Down on the ground, the kite flyers begin to saw their lines back and forth, trying to pull each other’s kites out of the sky. “We have <u>engagement</u>!” shouts the announcer. The audience cheers.</blockquote>The word <u>engagement</u> has multiple meanings. What does the author tell the reader with the use of the word <u>engagement</u>? Pick <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "The kites are ready to fly.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The kites are in a competition.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The kites are in a specific place.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The kites are battling each other.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The kites are tangled up in the sky.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence gives the <b>best</b> conclusion about why it is important to be the last kite in the air.",
+                "options": [
+                    {
+                        "text": "The last kite in the air has a better chance over the other kites of becoming the final winner in the end.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The last kite in the air is usually the strongest and biggest kite, making it the best one in the competition.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The last kite in the air does not need to use as many supplies because it does not break its line, or string.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The last kite in the air does not have to do as much work because the other kites have left the competition.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "How might have the information in “Cuisine and Etiquette in Zambia” affected the way “Cuisine and Etiquette in Uganda” is written?",
+                "options": [
+                    {
+                        "text": "The author kept all of the information in one paragraph for each text to make it easier to read.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author used food preferences in the introduction of each text to explain that country's diet.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author kept each text short as a way of focusing only on the cuisine and etiquette of both countries.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author introduced specific food used by each country as a lead in to explain the cultures of the two countries.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>How does the information in “Cuisine and Etiquette in Uganda” help the reader understand the differing roles of males and females in “Cuisine and Etiquette in Zambia”?",
+                "options": [
+                    {
+                        "text": "by explaining that in Uganda men are not expected to sit in the kitchen",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "by explaining that in Uganda the kitchen is separate from the rest of the house",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by explaining that in Uganda only children are not allowed to speak during meals",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by explaining that in Uganda neither men or women are allowed to leave until everyone has finished eating",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "checkbox",
+                "prompt": "<b>Part B</b><br><br>Which sentences from texts, “Cuisine and Etiquette in Zambia” and “Cuisine and Etiquette in Uganda,” <b>best</b> support your answer in part A?<br><br>Select <b>three</b> answers.",
+                "options": [
+                    {
+                        "text": "“All the cooking is done by the wife.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“In a traditional setting, boys from the age of seven eat with the man of the house.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“The trend now is that members of the family all eat together.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Most people, except for a few who live in the city centers, produce their own food.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“The responsibility for preparing the family's meals belongs solely to women and girls in the home.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“Most families eat two meals a day.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentence from “Cuisine and Etiquette in Zambia.”<blockquote>Belching after a meal used to be a <b>compliment</b>, but it is not nowadays.</blockquote>Based on the information in “Cuisine and Etiquette in Uganda,” what does the author mean by the word <u>compliment</u>? Select <b>two</b> answers.",
+                "options": [
+                    {
+                        "text": "The author is suggesting a social way of showing politeness.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author is telling the reader that the mother is a good cook.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is demonstrating that the family show the mother love.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is making light of the women's efforts in meal preparation.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is suggesting that the mother needs to be thanked for her hard work.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author is complaining that the mother doesn't do much work except prepare meals.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The author used the contrast in roles of males and females in “Cuisine and Etiquette in Uganda” to stress the importance of social structure. <br><br>What does the author's use of contrast in describing the roles of males and females in “Cuisine and Etiquette in Zambia” tell the reader about the importance of social structure in that country?",
+                "options": [
+                    {
+                        "text": "The contrast of roles shares insight into the cultural structure.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The contrast of roles explains the education process of the children.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The contrast of roles clarifies the order of hand washing in that country.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The contrast of roles explains that women do not have the same rights in all countries.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "First, read the sentence from “Cuisine and Etiquette in Zambia.”<blockquote>Zambia's <u>staple</u> food is maize (corn), and Zambians eat maize in several ways.</blockquote>Now read the sentence from “Cuisine and Etiquette in Uganda.”<blockquote>In Uganda, the <u>staple</u> food is matoke (cooking bananas).</blockquote>Which dictionary definition <b>best</b> defines <u>staple</u> as it is used in both texts?",
+                "options": [
+                    {
+                        "text": "a metal wire fastener",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "a quality of cloth fiber",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "important part of the diet",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "raw material for manufacture",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>What main idea can be found in <b>both</b> “Cuisine and Etiquette in Zambia” and “Cuisine and Etiquette in Uganda”?",
+                "options": [
+                    {
+                        "text": "Mealtime customs are important in both cultures.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Women are responsible for all of the meal preparation.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Hand washing is necessary to meal preparation in both cultures.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Men are not expected to participate in the mealtime preparation.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "checkbox",
+                "prompt": "<b>Part B</b><br><br>Which sentences from “Cuisine and Etiquette in Zambia” best support your answer in part A? Select <b>two</b> options.",
+                "options": [
+                    {
+                        "text": "“When the corn is ripe but still green, it can be roasted or boiled. When it is dry and hard, it can be fried or boiled.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“In a traditional setting, boys from the age of seven eat with the man of the house.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“Almost all learning takes place through daily activities in the home.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“The trend now is that members of the family all eat together.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Before eating, everybody washes hands in order of the status of the members of the family: father first, then mother, and others follow according to their ages.”",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which detail from “Cuisine and Etiquette in Zambia” best shows that the father is at the top of the social structure in a family?",
+                "options": [
+                    {
+                        "text": "In a traditional setting, boys from the age of seven eat with the man of the house.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "This is because all of the children below the age of seven are under the guidance of their mother.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The mother eats with the girls and the younger boys.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Before eating, everybody washes hands in order of the status of the members of the family: father first, then mother, and others follow according to their ages.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    }
+]

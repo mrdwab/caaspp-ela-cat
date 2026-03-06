@@ -1,0 +1,220 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Read this paragraph from the text and the questions that follow.<blockquote>Aussie continued eating his lunch as dozens of people watched. He never looked up at us looking down at him. Did he know we were there? I don't know, but I was glad he could fish in peace while we watched in safety from the new viewing platform.</blockquote>What is the main idea of the paragraph?",
+                "options": [
+                    {
+                        "text": "People were a distraction to Aussie the bear as he ate.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Aussie the bear didn't mind that people were watching him eat.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Aussie the bear was unaware that people were watching him eat.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "People can now watch the bears fish from the safety of the viewing platform.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the paragraph <b>best</b> supports the answer you chose in part A?",
+                "options": [
+                    {
+                        "text": "“Aussie continued eating his lunch as dozens of people watched.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“He never looked up at us looking down at him.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Did he know we were there?”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“I don't know, but I was glad he could fish in peace while we watched in safety from the new viewing platform.”",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read this conclusion about the text.<blockquote>An increasing number of people come to Hyder, Alaska, each summer.</blockquote>Select <b>two</b> details from the text that <b>best</b> support this conclusion.",
+                "options": [
+                    {
+                        "text": "In the past, there was only a short, unprotected platform.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "They didn't all fit on the platform, so they wandered everywhere.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Many visitors didn’t realize that bears are wild animals.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Since the bears wandered everywhere, too, many visitors were in danger.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Along the stream, they would build a platform stretching nearly the length of one and a half football fields.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the text.<blockquote>The Forest Service hired people to keep the visitors and bears apart. How could the Forest Service provide a safe place for bears to fish while people watched? Along the stream, they would build a platform stretching nearly the length of one and a half football fields. By winding the platform through the trees, the builders could avoid cutting them down. </blockquote>Click on the statement that best describes an inference that can be made about the Forest Service’s intentions for the park.",
+                "options": [
+                    {
+                        "text": "The Forest Service wanted the fish to remain in the stream.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The Forest Service wanted to keep both the bears and the people safe.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The Forest Service wanted to create meaningful jobs for their employees.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the paragraph.<blockquote>The platform would be from six to twelve feet off the ground so that bears could walk under it. A wide cap atop the railing would give people a place to lean and a steady base for taking pictures. By winding the platform through the trees, the builders could avoid cutting them down.</blockquote>What does the information in the paragraph show about the author's point of view? Select <b>all</b> that are correct.",
+                "options": [
+                    {
+                        "text": "The author believes it is important to keep the trees.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author wants people to be able to view the bears comfortably.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author thinks the platform will offer advantages for photographers.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author thinks it is important to keep the park as a natural habitat.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author is concerned that people will not like being so far away from the bears.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author thinks that the trees will cause a challenge with the construction of the platform.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Read this paragraph from the text.<blockquote>The best time to watch the bears is in the early morning and evening, but the next day we arrived in the middle of the day and spotted a black bear walking along the stream. Both grizzly and black bears feed here, but black bears usually come when grizzlies aren't around. We heard that a well-known grizzly called Aussie was napping near a pond on the other side of the platform. We waited to see if he would appear. Before long a snout pushed through the brush. Aussie stepped off the bank and into the pond. Only his head showed as he paddled. Reaching the muddy shallows, he turned onto his side and batted at a nearby log. Rolling over, he swam toward the old dike road, where people used to gather. Water droplets glistened on his fur as he climbed out and padded down the road. </blockquote>Summarize the main idea of this paragraph. Use key details from the text to support your summary."
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What effect does the change from <b>third</b> person to <b>first</b> person point of view have on the reader's understanding of the text?",
+                "options": [
+                    {
+                        "text": "It shows the reader that the text is nonfiction.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It makes the author appear more knowledgeable to the reader.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It distracts the reader from focusing on the problem of building a platform.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It helps the reader understand the personal connection the author has to the story.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentence from the text.<blockquote><u>Watching people watching bears</u> turned into one big headache. </blockquote>What does the phrase “<u>Watching people watching bears</u>” suggest about the author's point of view in the text? Select <b>three</b> that are correct.",
+                "options": [
+                    {
+                        "text": "The author thinks that watching bears is boring.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author thinks that people should not watch bears.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author thinks that the way people were watching the bears was dangerous.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author thinks that people were getting in the bears' way while watching them.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author believes that people were getting sick from watching the bears in the cold.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author believes that people should not put themselves in harm's way in order to watch bears.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Read the paragraph from the text and answer the question.<blockquote>People come to Hyder, Alaska, every summer just as the salmon arrive to lay their eggs on the gravelly stream bottom and die. The bears come to feed on the spawning salmon and to put on the weight they need to survive the winter. The people come to watch the bears. But visitors haven’t always had a safe viewing platform. In the past, there was only a short, unprotected platform. To get to it, people had to walk along the bears’ paths. Sometimes the bears climbed onto the platform. Over the years, the number of visitors grew. They didn’t all fit on the platform, so they wandered everywhere. Since the bears wandered everywhere, too, many visitors were in danger. The Forest Service hired people to keep the visitors and bears apart. </blockquote>What can you infer about the author's point of view on visiting the bears? Use details from the text in your answer."
+            }
+        ]
+    }
+]

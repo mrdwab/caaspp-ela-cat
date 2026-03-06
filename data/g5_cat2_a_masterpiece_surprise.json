@@ -1,0 +1,114 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Summarize what happens during the time Marvin is drawing the picture. Use key events from the text to support your summary."
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "This question has two parts. First, answer Part A. Then, answer Part B.<br><br><b>Part A</b><br><br>Which statement <b>best</b> summarizes the main idea of the text?",
+                "options": [
+                    {
+                        "text": "Even beetles are able to create works of art.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Strange events can happen while you are asleep.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "You can do amazing things you didn't think you were able to do.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "A small drawing can be as beautiful as a drawing that is much larger.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the text <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "Marvin the beetle saw the bottle of ink.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "At last he stopped, surveying his miniature scene.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Though he'd never done anything like this before, it seemed completelynatural, even unstoppable.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Then slowly, brows furrowed, James pulled out the chair and sat down.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<blockquote>Gently, delicately, and with <b>immense</b> concentration, Marvin lowered his front legs and began to draw. </blockquote>A synonym is a word that means the same or nearly the same as another word. What is the synonym of <b>immense</b>?",
+                "options": [
+                    {
+                        "text": "careful",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "strong",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "forceful",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "loose",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the lines from the text.<blockquote>It was finished.<br>It was perfect.<br>It was breathtaking.</blockquote>Pick the statement that best explains why the author chose to include these lines.",
+                "options": [
+                    {
+                        "text": "The author wanted to split up the story by using shorter sentences.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author wanted to strongly show Marvin's feelings about his drawing.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author wanted to have this section look and feel more like a poem.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author wanted to show that Marvin was done drawing and would not start again.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

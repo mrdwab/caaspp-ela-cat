@@ -1,0 +1,110 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which statement best summarizes a theme of the text?",
+                "options": [
+                    {
+                        "text": "Sharing things with others can lead to good friendships.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Greed tends to make you lose the things you wanted most.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Difficult problems can require careful teamwork to be solved.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Keeping secrets from your friends can cause them to doubt you.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What is the antonym of the word <u>suspicious</u> as it is used in paragraph 1 of the text?",
+                "options": [
+                    {
+                        "text": "adventurous",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "annoyed",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "cautious",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "confident",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the paragraph from the text.<blockquote>After everything had settled, the birds and animals gathered again. Mouse noticed that where a banana branch had fallen, several banana trees had sprouted in the ground. Banana trees had never existed before. Tapir pointed out some corn growing a short distance away. There had never been corn plants before. Fruits and vegetables that had never grown anywhere but on the Food Tree were suddenly growing everywhere.</blockquote>Pick the statement that <b>best</b> explains why the author chose to include this paragraph.",
+                "options": [
+                    {
+                        "text": "to convince the reader to plant a tree to help animals",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to inform the reader about the types of plants that grow in the forest",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to give an explanation to the reader about how something came to be",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to provide the reader with opinions the characters have about the meeting",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<br><br>When the gigantic trunk hit the ground, <u>the whole world shook</u>. <br><br>Which statement <b>best</b> describes what the phrase <u>the whole world shook</u> in the sentence adds to the tone of the text.",
+                "options": [
+                    {
+                        "text": "The phrase adds a cheerful tone to the text.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The phrase adds a hopeless tone to the text.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The phrase adds a nervous tone to the text.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The phrase adds an exciting tone to the text.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the passage.<blockquote>She opened her eyes and imagined all the <u>faces staring at her were cabbages</u>.</blockquote>What does the phrase <u>faces staring at her were cabbages</u> tell the reader about Samantha?",
+                "options": [
+                    {
+                        "text": "Samantha is feeling so nervous that she is starting to see things that aren't really there.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Samantha wants to make herself forget that there are actual people watching her.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Thinking of cabbages has helped Samantha remember her lines before.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "There are actors in the play who are pretending to be cabbages.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Choose the sentence that <b>best</b> explains what the use of dialogue tells about the relationship between Samantha and her family and friends.",
+                "options": [
+                    {
+                        "text": "Samantha's friends and family try to help her not to worry.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Samantha's family will feel upset if she chooses not to perform.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Samantha's friends and family want to help her get out of the play.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Samantha's friends want her to feel better but are worried themselves.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "checkbox",
+                "prompt": "<b>Part B</b><br><br>Which lines from the passage support your answer in part A? Select <b>all</b> that apply.",
+                "options": [
+                    {
+                        "text": "\"Why not?\" asked Samantha's older sister, Megan. \"You said it was the best part in the whole play.\"",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"My stomach feels funny,\" said Samantha.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"You'll be wonderful,\" said Mom.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"Patrick, are you afraid to go onstage?\" asked Samantha.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"My big brother told me to pretend that the people in the audience are cabbages,\" answered Anika.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"I'm a healthy tooth,\" she began.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "What does the author do by having Samantha ask the same question three times to friends? Pick <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "The author proves that Samantha has a lot of friends.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author makes the reader wonder if Samantha feels nervous.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author shows that Samantha does not believe what her friends tell her.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author shows how much Samantha wants to stop feeling afraid to go on stage.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author shows the reader that Samantha needs too much help from other people.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author shows that there can be different ways to stop feeling scared of something.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which sentence <b>best</b> describes the lesson Samantha learns in the story?",
+                "options": [
+                    {
+                        "text": "It is exciting to be the star of the show.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It is okay to quit at something if we cannot do it.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Doing what others say to do will always help us.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The people who care about us can help us through hard times.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence(s) from the passage <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "\"I don't want to be the healthy tooth anymore,\" said Samantha as she walked up the sidewalk to the Multipurpose Room.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Samantha walked slowly to the center of the stage and looked out at all the people. Everyone was quiet.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "She opened her eyes and imagined all the faces staring at her were cabbages. She still couldn't remember her lines.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "She found them sitting in the second row. She smiled, and they all smiled back.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Read the paragraphs from the passage.<blockquote>Samantha walked slowly to the center of the stage and looked out at all the people. Everyone was quiet. The lights made her face feel tight and hot.<br><br>Samantha couldn't remember what to say. She closed her eyes and pretended she was at practice and nobody was watching. Her legs wobbled.<br><br>She opened her eyes and imagined all the faces staring at her were cabbages. She still couldn't remember her lines. Her hands sweated. </blockquote>What can the reader conclude about how Samantha is feeling in these paragraphs? Include information from the passage in your answer."
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Why is using a chronological order of events important in understanding the climax in the passage?",
+                "options": [
+                    {
+                        "text": "It helps the reader to understand the steps Samantha makes toward finally giving her performance.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It helps the reader to learn how the teacher runs the play for Samantha and the other students.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It helps the reader to understand how Samantha studies her lines for the play.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It helps the reader to get to know each of Samantha's friends.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>Samantha's teacher waited just inside. \"Here's our healthy tooth!\" she said, leading Samantha backstage.<br><br>\"<u>Break a leg</u>,\" said Megan.<br><br>\"You'll be wonderful,\" said Mom.<br><br>\"We'll be watching,\" said Dad.<br><br>\"Watch out for Tooth Decay,\" said Brian.</blockquote>What does the author tell the reader by using <u>break a leg</u>?",
+                "options": [
+                    {
+                        "text": "Megan hopes Samantha will trip onstage.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Megan thinks Samantha will forget her lines.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Megan supports her sister with an expression for good luck.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Megan tries to give her sister and excuse to skip her performance.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence from the passage <b>best</b> shows how Samantha overcomes her fear of performing?",
+                "options": [
+                    {
+                        "text": "\"Mrs. Johnson picked you because she knows you can do it,\" said Dad as he opened the door.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Samantha walked slowly to the center of the stage and looked out at all the people.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "She needed to find her family in the audience and pretend she was having fun practicing with them.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"I am a healthy tooth,\" she began.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "9",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Samantha is nervous about her performance. Pick <b>four</b> details from the passage that <b>best</b> support this idea.",
+                "options": [
+                    {
+                        "text": "Her face feels hot.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "She practices at night.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Her stomach feels funny.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "She forgets what to say at first.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "She asks her friends if they are afraid.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Her costume is flapping against her legs.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "10",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What happens after Samantha walks to the center of the stage? Use key events from the passage in your answer."
+            }
+        ]
+    }
+]

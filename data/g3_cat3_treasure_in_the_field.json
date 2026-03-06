@@ -1,0 +1,248 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "What is the <b>most likely</b> reason the author included the final sentence in the passage? Pick <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "to show that the old man's plan had worked",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show that the boys are mad about being tricked",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show that the boys are happy about earning money",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show that the old man does not want the boys to know the secret",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show that the old man wants his sons to look at something in a new way",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show that the old man is mad at his boys for not helping him for years",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which of these <b>best</b> describes why the author used dialogue in the passage?",
+                "options": [
+                    {
+                        "text": "to describe how the sons and the old man work together",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to describe how the old man shares his secret with his sons",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to explain why the characters behave the way they do",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to explain why the neighbor was interested in the father’s fields",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence is <b>most likely</b> true about <b>both</b> sons in the passage?",
+                "options": [
+                    {
+                        "text": "Both wish that they will always live on the farm.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Both wish to have more treasure than anyone else.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Both learn that treasure can have more than one meaning.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Both want to teach their father how to grow rice in the field.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which statement about the boys is supported by the passage?",
+                "options": [
+                    {
+                        "text": "The boys did not share the work equally.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The boys did not know how to plant a field of rice.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The young boys wished to surprise their father with a special dinner.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The young boys preferred to sit in the house instead of working outside.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the passage best supports your answer in part A.",
+                "options": [
+                    {
+                        "text": "The sons promised and hurried out to begin.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "As the years went by, it became clear even to their father that the boys were lazy.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "At last, the entire field had been dug, but no treasure had been found.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The brothers moped around with their heads down.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which detail from the passage <b>best</b> shows that the old man's sons are lazy?",
+                "options": [
+                    {
+                        "text": "Since the man had to tend the field, the boys took care of the house.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"Oh, they would,\" the father replied again, \"but they are still young.\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Though they sometimes tended the field with him, they always made excuses to go home early.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The sons were sad, for they not only depended on their father, but they also loved him.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>Day after day they dug. Their neighbor was <u>astonished</u> to see how long and hard the young men worked.</blockquote>What does the word <u>astonished</u> <b>most likely</b> mean?",
+                "options": [
+                    {
+                        "text": "disappointed",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "discovered",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "satisfied",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "surprised",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the passage.<blockquote>It became clear, <u>even to their father</u>, that the boys were lazy.</blockquote>What does the phrase <u>even to their father</u> tell the reader about the story?",
+                "options": [
+                    {
+                        "text": "It took the father a long time to teach the boys a new kind of work.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It took the father longer than others to understand his sons were lazy.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The father knew all along that his boys did not like to work on the family farm.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The father knew many other people who could be trained to help him on the farm.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which detail from the passage <b>best</b> explains why the father must stop working in the field?",
+                "options": [
+                    {
+                        "text": "The father needs to return home to cook the dinner.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The father asks the neighbor to do the work in the fields for him.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The father’s sons depend on him to stay home and care for them.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The father’s age makes it too difficult to do farm work any longer.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    }
+]

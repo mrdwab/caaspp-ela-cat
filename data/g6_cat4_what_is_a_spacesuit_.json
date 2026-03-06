@@ -1,0 +1,176 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "This question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Which of these inferences about the author's purpose is supported by the text?",
+                "options": [
+                    {
+                        "text": "The author explains the many spacesuit features used by the astronauts.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author describes different types and parts of spacesuits to explain how they protect astronauts.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The author uses spacesuit details to highlight space technologyaccomplishments of other countries.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author shows advancements in space technology through the changes in spacesuits over the years.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the text <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "“The spacesuit protects the astronaut from the dangers of being outside in space.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“Underneath the spacesuit, astronauts wear a Liquid Cooling and Ventilation Garment.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“This suit is the Russian version of the EMU and is used for spacewalks.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Like the Advanced Crew Escape Suit, the Sokol is designed only to be used inside a spacecraft.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "This question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>What is <b>most likely</b> the author’s intent by mentioning “A spacesuit is much more than a set of clothes astronauts wear on spacewalks” at the beginning of the text?",
+                "options": [
+                    {
+                        "text": "The author wants to inform the reader that astronauts regularly walk in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author wants to describe to the reader the importance of astronauts walking in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author wants to explain to the reader that astronauts wear spacesuits during flights in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author wants to convince the reader that spacesuits are more important to astronauts than most people think.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the text best illustrates the conclusion made in part A?",
+                "options": [
+                    {
+                        "text": "“The spacesuit protects the astronaut from the dangers of being outside in space.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“The spacesuitconsists of several pieces.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“The Mercury suits were worn only inside the spacecraft.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“This suit cannot be worn during spacewalks.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Select the <b>two</b> sentences from the text that <b>best</b> support the inference that extra-vehicular space exploration would not have been possible without spacesuits.",
+                "options": [
+                    {
+                        "text": "“A spacesuit is much more than a set of clothes astronauts wear on spacewalks.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Spacesuits also supply astronauts with oxygen to breathe while they are in the vacuum of space.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“The layers perform different functions, from keeping oxygen within the spacesuit to protecting from space dust impacts.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“These simple suits were based on pressure suits worn by U.S. Navy pilots.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“The Advanced Crew Escape Suit is the orange suit that astronauts wear during launch and landing of the space shuttle.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "Read the paragraph from the text and the directions that follow.<blockquote>Spacesuits also supply astronauts with oxygen to breathe while they are in the vacuum of space. They contain water to drink during spacewalks. They protect astronauts from being injured from impacts of small bits of space dust. Space dust may not sound very dangerous, but when even a tiny object is moving many times faster than a bullet, it can cause injury. Spacesuits also protect astronauts from radiation in space. The suits even have visors to protect astronauts' eyes from the bright sunlight. </blockquote>What is the author’s central idea in this paragraph? Use evidence from the text to support your answer."
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence <b>best</b> summarizes the central idea of the text?",
+                "options": [
+                    {
+                        "text": "The spacesuit has changed and adapted to become more complex over time.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The spacesuit is made up of several parts that are made up of different materials.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The spacesuit was developed to allow astronauts to go outside of their spacecraft to walk in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The spacesuit has become an essential piece of equipment to keep astronauts safe from the dangers of space.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What conclusion can be drawn about the author’s relevance of evidence regarding spacesuits? Support your answer with evidence from the text."
+            }
+        ]
+    }
+]

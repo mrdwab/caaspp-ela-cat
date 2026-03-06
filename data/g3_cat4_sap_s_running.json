@@ -1,0 +1,221 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "What is the <b>most likely</b> reason the author included the legend in the passage? Pick <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "to make the idea of tasting sap seem fun",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to provide details about the Iroquois way of life",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to explain how people discovered how to make syrup",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show sap has been used to make syrup for many years",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to provide information that shows that sap is a good sweetener for food",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show how the Iroquois used to make syrup and how syrup is made today",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>More than a hundred years ago, scientist Charles Darwin wrote that sap flow was a \"most mysterious subject.\" Since then, many people have studied how sap flows. Much of the research has been done at the University of Vermont, where sap is still being studied. </blockquote>What does this paragraph show about the author's point of view?",
+                "options": [
+                    {
+                        "text": "He believes that no one will ever be able to solve the mystery of how sap flows.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "He believes the way sap is turned into syrup is difficult to understand and the University helps.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "He believes the way sap is formed and how it runs is still being studied at the University of Vermont.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "He believes that Charles Darwin would have been able to help the University in figuring out how sap runs.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the passage.<blockquote>All these leaves drink in summer sunshine and make sugar.</blockquote>Which statement <b>best</b> describes what this sentence means?",
+                "options": [
+                    {
+                        "text": "Leaves grow larger in the summer.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Leaves use sunlight to make sugar.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Summer is the best time to collect sugar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Trees with many leaves make more sugar.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>Click on the sentence that gives the best conclusion about sugar-maple trees.",
+                "options": [
+                    {
+                        "text": "Sugar maple trees grow best in cold weather.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Most sugar maple trees are about 50 feet tall.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The sap in sugar maple trees begins flowing in early spring.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Vermont has the best weather for growing sugar maple trees.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Click on the sentence from the passage that best supports your answer in part A. Choose one answer.",
+                "options": [
+                    {
+                        "text": "A 50-foot-high sugar maple has nearly two hundred thousand leaves.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The Coleman brothers—Nelson, Ralph, and Harold—step out their front door in Vermont.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Scientists say that anyone who cuts down a sugar-maple tree in freezing weather can see this is true.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Every spring, the Colemans tap holes into the sugar-maple trees, then hang a bucket under each hole to catch the sap.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence from the passage supports the idea that the Coleman brothers have experience with making maple syrup?",
+                "options": [
+                    {
+                        "text": "\"The Coleman brothers—Nelson, Ralph, and Harold—step out their front door in Vermont.\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"As they pass 75-year-old sugar-maple trees, sap drips from holes in the trees into metal buckets.\"",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "\"Every spring, the Colemans tap holes into sugar-maple trees, then hang a bucket under each hole to catch the sap.\"",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "\"They don’t worry too much about why the sap is running in their trees this morning.\"",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The author states that many years ago, sap flow was a “most mysterious subject.” How does the author explain that this is no longer true?",
+                "options": [
+                    {
+                        "text": "by describing syrup-making as a family tradition",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by providing details about how sap becomes syrup",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "by stating that sap has been studied for many years",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "by mentioning that sap contains sugar and other minerals",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>Nelson Coleman and his brothers have made maple syrup all their lives. It is a <u>family tradition</u>.</blockquote>What is a <u>family tradition</u>?",
+                "options": [
+                    {
+                        "text": "the way that some families act",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "a breakfast food that a family eats",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "a place where a family likes to go together",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "something that a family does year after year",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    }
+]

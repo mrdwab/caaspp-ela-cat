@@ -1,0 +1,126 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Pick the <b>two</b> sentences that should be included in a summary of the passage.",
+                "options": [
+                    {
+                        "text": "A bee traces a figure 8 while other bees touch her antennae.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees are able to communicate with dance when the sun is in the sky.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It takes several hours for a bee to communicate with other worker bees.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees use patterns of movement to tell other worker bees how to find food.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Bees dance to show other worker bees the direction of food but not how far away it is.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Bees communicate by vibrating their wings, moving side to side, and turning in circles.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the passage.<blockquote>Because bees steer by the sun, the dancer links her directions to its <u>position</u> in the sky.</blockquote>Pick the word that <b>best</b> defines <u>position</u> as it is used in the sentence.",
+                "options": [
+                    {
+                        "text": "job",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "opinion",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "order",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "place",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What does the information in the section “Keep Away!” show about the author’s point of view?",
+                "options": [
+                    {
+                        "text": "It shows that the author thinks that bees are the best animal.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the author thinks that all animal dances are frightening.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the author thinks that animal dances weaken animal groups.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the author thinks that animal dances are better than animal fights.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "What is the <b>most likely</b> reason the author uses dialogue in the passage? Pick <b>three</b> choices.",
+                "options": [
+                    {
+                        "text": "to inform readers that animals communicate through movement",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to inform readers that animals can talk to each other the same way humans can",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to inform readers that different dance movements have different meanings to animals",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to inform readers that animals have a spoken language that some humans can understand",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to inform readers that an animal’s specific movements gives other animals important information",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to inform readers that animals have secret codes that only the smartest animals in the species can understand",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

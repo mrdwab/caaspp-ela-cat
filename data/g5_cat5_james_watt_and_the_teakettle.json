@@ -1,0 +1,192 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "How does the first paragraph affect the plot? Select <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "It introduces the main character.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It gives an idea of the age of the boy.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It gives details of the setting of the passage.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It shows that the boy is curious about things.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "It shows that the boy is very quiet and thoughtful.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It describes the relationship between the boy and his grandmother.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "The following question has two parts. First, answer part A. Then, answer part B.<br><br><b>Part A</b><br><br>What conclusion about James is supported by the text?",
+                "options": [
+                    {
+                        "text": "James enjoyed learning new things.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "James feared being defeated by his experiments.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "James believed he was more intelligent than others.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "James felt badly about his grandmother ignoring his questions.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "radio",
+                "prompt": "<b>Part B</b><br><br>Which sentence from the passage <b>best</b> supports your answer in part A?",
+                "options": [
+                    {
+                        "text": "“Indeed, he was always wondering and always wanting to know.”",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "“The lad lifted the lid and peeped inside again.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“Jamie sat still in his place.”",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "“He failed again and again.”",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentence from the text.<blockquote>Day after day he thought about it, and evening after evening he sat by his grandmother's fireside and watched the thin, white vapor come out of the teakettle and lose itself in the <u>yawning black throat of the chimney</u>.</blockquote>What effect does the author create by using the phrase <u>yawning black throat of the chimney</u>?",
+                "options": [
+                    {
+                        "text": "It gives the feeling that steam is very important.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It gives the feeling that the chimney is very dark and frightening.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It gives the feeling of being tired and sleepy.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "It gives the feeling that the chimney is very large and wide and swallows the steam.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Select the two sentences that should be included in a summary of the last four paragraphs of the passage.",
+                "options": [
+                    {
+                        "text": "James was from Scotland.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "James knew steam could power ships.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "James continued to live with his grandmother.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "James kept thinking about uses for steam as he grew up.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "James failed many times but kept learning from his mistakes.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "James felt badly when others laughed at his experiments.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What can you infer about the grandmother in paragraph three? Include information from the text in your answer."
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentence from the text.<blockquote>The hot vapor puffed out at a <u>furious</u> rate.</blockquote>What does the word <u>furious</u> suggest about the steam? Pick <b>two</b> choices.",
+                "options": [
+                    {
+                        "text": "The steam was quite noisy.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The steam came out very fast.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The steam made James angry.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The steam caused James to yell.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The steam appeared to be powerful.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The steam created a lot of excitement.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "tabLabel": "1",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentences from the passage.<blockquote>When the astronaut moves, the special gloves allow the movements to be shown with the video. This <u>simulation</u> looks and feels just like a spacewalk.</blockquote>What does the use of the word <u>simulation</u> suggest? Select <b>three</b> options.",
+                "options": [
+                    {
+                        "text": "The astronaut is pretending to wear the special gloves.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The astronaut is deciding if the special gloves need to be worn.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The special gloves help the astronaut imagine going on a spacewalk.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The special gloves help the astronaut practice going on a spacewalk.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The special gloves make it seem like the astronaut is on a spacewalk.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "The astronaut is dreaming about going on a spacewalk with special gloves.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "2",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What happens when astronauts go on spacewalks?",
+                "options": [
+                    {
+                        "text": "Astronauts lock the first airlock door and then the second door. Then, they breathe oxygen for a few hours and put on spacesuits.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Astronauts put on spacesuits and breathe oxygen for a few hours. Then, they go through the first airlock door, lock it, and go through the second door.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Astronauts open the first airlock door and lock it. Then, they put on spacesuits and breathe oxygen for a few hours. Then, they open the second door.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Astronauts breathe oxygen for a few hours, then put on spacesuits. Then, they go through the first airlock door, lock it, and go through the second door.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "3",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What is the <b>most likely</b> reason the author included headings in the passage?",
+                "options": [
+                    {
+                        "text": "to show the reader why the passage was written",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show the reader the main idea of each section",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "to show the reader how astronauts learn to go on spacewalks",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "to show the reader important details about how to become an astronaut",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "4",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Which sentence from the passage supports the idea that it takes a lot of training to be an astronaut?",
+                "options": [
+                    {
+                        "text": "One way astronauts train for spacewalks is by swimming.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Astronauts practice spacewalks underwater in a large swimming pool.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Astronauts train seven hours in the pool for every one hour they will spend on a spacewalk.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Another way astronauts practice for a spacewalk is by using virtual reality.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "5",
+        "items": [
+            {
+                "type": "checkbox",
+                "prompt": "Read the sentence from the passage.<blockquote>Floating in space is a lot <u>like floating in water</u>.</blockquote>What does the phrase <u>like floating in water</u> help the reader to understand about this passage? Select <b>all</b> that are correct.",
+                "options": [
+                    {
+                        "text": "One way to relax in space is to float in water.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The feeling of being in space is like swimming.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Astronauts get very wet when they are in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Things in space are as easy to see as they are in water.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Astronauts need to breathe underwater to move in space.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "One way an astronaut pretends to be in space is to be underwater.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "6",
+        "items": [
+            {
+                "type": "short_response",
+                "prompt": "What inference can be made about spacewalks? Support your answer with details from the passage."
+            }
+        ]
+    },
+    {
+        "tabLabel": "7",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "What does the introductory section reveal about the author?",
+                "options": [
+                    {
+                        "text": "The author is a scientist interested in how spacewalks happen.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is an astronaut who knows important people from spacewalk history.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is someone who wants to entertain readers with a story about spacewalks.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "The author is someone who wants to tell readers about moments in spacewalk history.",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tabLabel": "8",
+        "items": [
+            {
+                "type": "radio",
+                "prompt": "Read the sentences from the passage.<blockquote>When on a spacewalk, astronauts use safety tethers to stay close to their spacecraft. Tethers are <u>like ropes</u>.</blockquote>What does the phrase <u>like ropes</u> tell the reader about information in the passage?",
+                "options": [
+                    {
+                        "text": "Tethers are used to tie things together.",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Tethers help astronauts to do experiments.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Tethers are used to keep things tightly woven together.",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Tethers help astronauts climb into a spacecraft.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
